@@ -1,0 +1,1 @@
+{'openapi': '3.0.1', 'info': {'title': 'Webgoat', 'x-cortex-git': {'github': {'repository': 'cremerica/WebGoat'}}, 'x-cortex-tag': 'webgoat', 'x-cortex-type': 'service', 'x-cortex-owners': [{'name': 'Engineering', 'type': 'GROUP'}]}}
